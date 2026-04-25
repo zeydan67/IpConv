@@ -1,15 +1,15 @@
-Welcomed to IpConv (Ipv4 converter)
+Welcomed to Ip4Conv (Ipv4 converter)
+the first completely features ipv4 converter 
 
-Why this tools its better then all project converter ip
+Featured 
 
-because this tools can find 
+- Ipv4 finder ( ubnet musk, usable host , and more )
 
-subnet mask,
-default gateway, 
-dns 
+- ip converter decimal to binary and vice versa
 
-and more by only use ip 
+- and others
 
-and this tools support all device (python may required)
 
-copyright to myself and other my ai tools stuff
+support all devices ( python and terminal required )
+
+  
