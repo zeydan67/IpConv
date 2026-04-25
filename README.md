@@ -20,7 +20,7 @@ how to install for all devices
 2. type git clone https://github.com/zeydan67/IpConv.git
 3. after success clone type ls
 4. type cd IpConv
-5. type python ip.tools.py
+5. type python ip_tools.py
 6. and done you can used
 
 this tools is fully open source so you can modify this tools like you one and this safe
